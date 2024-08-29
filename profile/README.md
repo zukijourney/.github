@@ -21,6 +21,7 @@ They are all available [here with further information.](https://github.com/zukix
 
 ### Other Resources
 - **zukixa/cool-ai-stuff:** A repository containing an uncensored list of free-to-use AI APIs and sites, managed by @zukixa [here](https://github.com/zukixa/cool-ai-stuff/blob/main/README.md).
+- cool-ai-stuff is now also available online! Visit here on [https://cas.xyzbot.net](https://cas.xyzbot.net)
 
 ### welcome to our story created by spite, led by utter brain damage!
 [discord.gg/zukijourney](https://discord.gg/zukijourney)
