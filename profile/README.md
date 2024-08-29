@@ -7,7 +7,7 @@ zukijourney is a comprehensive AI ecosystem developed intially by @zukixa out of
 The Zukijourney API is the core of the ecosystem, providing access to various AI models and functionalities. It is one of the largest and oldest continuously operating GPT-4 APIs, offering features like text-to-speech, speech-to-text, embeddings, translation, and upscaling. The API is highly stable and supports NSFW content on specific endpoints.
 
 - **Repository:** [api-oss](https://github.com/zukijourney/api-oss)
-- **Documentation:** [api-docs](https://github.com/zukijourney/api-docs)
+- **Documentation:** [api-docs](https://github.com/zukijourney/api-docs) or now also available online [here!](https://docs.xyzbot.net)
 
 ### Zukijourney Bots
 
