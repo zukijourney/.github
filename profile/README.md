@@ -17,8 +17,9 @@ Zukijourney also offers a suite of open-source Discord bots built on top of the 
 - **zuki.starboard:** A starboard bot to showcase highly starred/reacted messages.
 - **zuki.count:** A counting game bot where users take turns incrementing/decrementing numbers.
 
-- **Repository:** [bots-docs](https://github.com/zukijourney/bots-docs)
-- **Documentation:** Now available online [here!](https://docs.zukijourney.com/bots)
+**Repository:** [bots-docs](https://github.com/zukijourney/bots-docs) 
+<br />
+**Documentation:** Now available online [here!](https://docs.zukijourney.com/bots)
 
 ### Other Resources
 - **zukixa/cool-ai-stuff:** A repository containing an uncensored list of free-to-use AI APIs and sites, managed by @zukixa [here](https://github.com/zukixa/cool-ai-stuff/blob/main/README.md).
