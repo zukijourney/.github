@@ -1,29 +1,45 @@
-## welcome-to-zukijourney
+# 🚂 --- zukijourney -- from one zuki - to a journey!
 
-zukijourney is a comprehensive AI ecosystem developed intially by @zukixa out of spite, but now has grown to a team of 6, offering a wide range of services and tools for AI enthusiasts and developers. Here's an overview of what zukijourney has to offer:
+zukijourney is a dual-focused AI innovation platform born out of spite, now evolved into one of the most reliable AI integration solutions available. 
+What started as a personal project by @zukixa has grown into a robust ecosystem with over **9 billion** processed API requests and over **200,000+** Discord bot users.
 
-### Zukijourney API
+### 🔄 Our Focus
 
-The Zukijourney API is the core of the ecosystem, providing access to various AI models and functionalities. It is one of the largest and oldest continuously operating GPT-4 APIs, offering features like text-to-speech, speech-to-text, embeddings, translation, and upscaling. The API is highly stable and supports NSFW content on specific endpoints.
+#### 🚄 AI Load Balancing API
 
-- **Repository:** [api-oss](https://github.com/zukijourney/api-oss)
-- **Documentation:** [api-docs](https://github.com/zukijourney/api-docs) or now also available online [here!](https://docs.zukijourney.com/ai)
+Our flagship AI inference load balancer provides unified access to multiple AI models through a single API key. We're one of the largest and oldest continuously operating freemium multi-AI APIs in the Discord ecosystem.
 
-### Zukijourney Bots
+- **9B+** API requests processed
+- **6,000+** active developers
+- **99%** uptime reliability
+- Full support for chat, image, audio, and embedding models
+- Open source codebase
 
-Zukijourney also offers a suite of open-source Discord bots built on top of the API, each serving a specific purpose. These bots are licensed under GPLv3 and include:
+**Repository:** [api-oss](https://github.com/zukijourney/api-oss) - Our v4 codebase  
+**Documentation:** [docs.zukijourney.com/ai](https://docs.zukijourney.com/ai)
 
-- **zuki.time:** A time management bot for roleplay servers, allowing progression of in-character time.
-- **zuki.starboard:** A starboard bot to showcase highly starred/reacted messages.
-- **zuki.count:** A counting game bot where users take turns incrementing/decrementing numbers.
+#### 🤖 Discord Bots
 
-**Repository:** [bots-docs](https://github.com/zukijourney/bots-docs) 
-<br />
-**Documentation:** Now available online [here!](https://docs.zukijourney.com/bots)
+Our AI-powered Discord bots serve communities with intelligent interactions:
 
-### Other Resources
-- **zukixa/cool-ai-stuff:** A repository containing an uncensored list of free-to-use AI APIs and sites, managed by @zukixa [here](https://github.com/zukixa/cool-ai-stuff/blob/main/README.md).
-- cool-ai-stuff is now also available online! Visit here on [https://cas.zukijourney.com](https://cas.zukijourney.com)
+- **zuki.gm:** AI-powered game master for various role-play scenarios (3,200+ servers, 200,000+ users)
+- **zuki.time:** Timekeeper for roleplay where time flows differently than the real world (660+ servers)
+- **zuki.helpers:** Our collection of utility Discord bots
 
-### welcome to our story created by spite, led by utter brain damage!
-[discord.gg/zukijourney](https://discord.gg/zukijourney)
+**Repository:** [zuki-helpers](https://github.com/zukixa/zuki-helpers)  
+**Documentation:** [docs.zukijourney.com/bots](https://docs.zukijourney.com/bots)
+
+### 🌟 Key Projects
+
+- **[api-oss](https://github.com/zukijourney/api-oss)** - Our current v4 API codebase
+- **[example-api](https://github.com/zukijourney/example-api)** - v2.5 codebase template for services to become providers
+- **[api-tests](https://github.com/zukijourney/api-tests)** - Testing framework for API verification
+- **[cool-ai-stuff](https://github.com/zukixa/cool-ai-stuff)** - Uncensored benchmarks of AI APIs, showing how we consistently outperform the competition
+
+### 💻 Open Source Philosophy
+
+At zukijourney, we believe in the power of open source software to drive innovation and foster community. We actively want everyone, including our "competition," to benefit from our innovations! Check out our repositories and contribute to the AI revolution.
+
+## Created by spite, driven by innovation, fueled by brain damage! 🧠🔥
+
+[Join our Discord!](https://discord.gg/zukijourney)
